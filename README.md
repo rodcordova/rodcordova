@@ -6,7 +6,7 @@
 <img src="https://github.com/rodcordova/rodcordova/blob/main/171127-Data-Science.jpg"> 
 </p>
 
-# **About Me**
+## **About Me**
 
 - **Data Science Expertise:** Proficient in statistical analysis, machine learning, and data visualization.
 - **Data Engineering Skills:** Experienced in data pipeline development and management.
@@ -20,7 +20,7 @@
 ### **Mission and Purpose**
 My mission is to leverage data to drive meaningful insights and create value for businesses and society.
 
-# **Technologies**
+## 👩‍💻 **Technologies**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://docs.python.org/3/) 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/power-bi/) 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://dev.mysql.com/doc/)
@@ -39,7 +39,11 @@ My mission is to leverage data to drive meaningful insights and create value for
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=Render&logoColor=white&labelColor=101010)](https://render.com/docs)
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white&labelColor=101010)](https://www.twilio.com/docs/all) 
 
-# **Contact**
+## 📈 **Stats**
+
+[![RodrigoCordova GitHub stats](https://github-readme-stats.vercel.app/api?username=rodcordova&show_icons=true&theme=radical&count_private=true)] 
+
+## 💼**Contact**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigocordova836@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-cordova-2a36b91ab/)
