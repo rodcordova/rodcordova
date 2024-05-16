@@ -23,10 +23,12 @@ My mission is to leverage data to drive meaningful insights and create value for
 ## 🛠️ **Tech Stack**
 **Area Data**
 - Data Storage
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=222222&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 - Data Processing
+
 ![Pandas](https://img.shields.io/badge/-Pandas-764ABC?style=for-the-badge&labelColor=222222&logo=Pandas&logoColor=ffffff)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)](https://spark.apache.org/docs/latest/)
