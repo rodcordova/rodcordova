@@ -70,5 +70,4 @@ My mission is to leverage data to drive meaningful insights and create value for
 
 ## 💼**Contact**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigocordova836@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-cordova-2a36b91ab/)
