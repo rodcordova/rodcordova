@@ -1,4 +1,4 @@
-# ***Hello there! My name is Rodrigo Cordova 👋***
+# ***Hi, I'm Rodrigo 👋***
 
 #### *Data Scientist with a strong background in Data Engineering and Data Analytics.*
 
